@@ -1,1 +1,1 @@
-# MinApiTrayIcon
+# [程式說明](https://blog.darkthread.net/blog/min-api-run-with-tray-icon)
